@@ -1,0 +1,38 @@
+
+hr {
+    margin-left: 0;
+    max-width: 40px;
+}
+
+.jumbotron {
+    position: relative;
+}
+
+.container {
+    padding: 75px 0;
+}
+
+h1, .lead {
+    color: #fff;
+}
+
+
+.btn-primary {
+background: #1096fc;
+border: 0;
+}
+
+.footer {
+    padding-top: 24px;
+    padding-bottom: 24px;
+    background: #212121;
+}
+
+.contacts{
+    height: 100px;
+    font-size: medium;
+    padding-bottom: 40px;
+}
+
+    
+  
